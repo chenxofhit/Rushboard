@@ -10,7 +10,7 @@ Rushboard是适用于高校内部的实验室🔬科研汇报周报 SaaS系统�
 
 登录界面：
 
-https://tva1.sinaimg.cn/large/008i3skNgy1gt4kuhv487j319a0u0dlb.jpg
+![截图 0](https://tva1.sinaimg.cn/large/008i3skNgy1gt4kuhv487j319a0u0dlb.jpg)
 
 教师界面：
 
